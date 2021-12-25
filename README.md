@@ -1,8 +1,9 @@
 ### Hey! 👋
-Im Martin, a 22 year old software developer from Sweden. Im currently in year three of Computer Science and Engineering at Luleå University of Technology.
+Im Martin, a 22 year old software developer from Sweden. Im currently in year three of Computer Science and Engineering at Luleå University of Technology. The projects you find here will be a mixture of school- and hobbie projects!
 
-### Contact
-
+### Contact 📫
+LinkedIn: https://www.linkedin.com/in/martin-askolin-451029227/
+Email: Coming soon...
 
 <!--
 **martinaskolin/martinaskolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
