@@ -1,5 +1,5 @@
 ### Hey! 👋
-Im Martin, a 22 year old software developer from Sweden. Im currently in year four of Computer Science and Engineering at Luleå University of Technology. The projects you find here will be a mixture of school- and hobbie projects!
+Im Martin, a 23 year old software developer from Sweden. Im currently in year four of Computer Science and Engineering at Luleå University of Technology. The projects you find here will be a mixture of school- and hobbie projects!
 
 ### Contact 📫
 - LinkedIn: https://www.linkedin.com/in/martin-askolin-451029227/
