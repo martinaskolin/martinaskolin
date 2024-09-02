@@ -1,9 +1,8 @@
-### Hey! 👋
-Im Martin, a 24 year old software developer from Sweden. Im currently in year five of Computer Science and Engineering at Luleå University of Technology. The projects you find here will be a mixture of school- and hobbie projects!
+### Hello! 👋
+I'm a fifth-year student in Computer Science and Engineering at Luleå University of Technology, Sweden. I'm passionate about IT with a focus on game development, graphics programming, and cybersecurity. The projects you find here will be a mixture of school- and hobbie projects!
 
 ### Contact 📫
 - LinkedIn: https://www.linkedin.com/in/martin-askolin-451029227/
-- Email: Coming soon...
 
 <!--
 **martinaskolin/martinaskolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
